@@ -5,7 +5,7 @@
 
 # What is the largest prime factor of the number 600851475143 ?
 
-import common.multiples_and_primes as mp 
+import multiples_and_primes as mp 
 
 def find_largest_prime_factor(my_number):
 	
