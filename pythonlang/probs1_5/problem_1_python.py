@@ -7,6 +7,8 @@
 
 # Find the sum of all the multiples of 3 or 5 below 1000.
 
+import multiples_and_primes as multp
+
 def find_multiple_sum(limit_num, multiple):
 	multiple_sum = 0
 	current_number = multiple
